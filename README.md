@@ -1,5 +1,6 @@
 # Waveform Chart Widget for Ratatui
 
+
 A high-performance, high-resolution waveform chart widget for [Ratatui](https://github.com/ratatui-org/ratatui). Designed for audio visualization, system monitoring, and other real-time data feeds.
 
 ## Features
@@ -11,6 +12,12 @@ A high-performance, high-resolution waveform chart widget for [Ratatui](https://
     *   **Vertical Gradient:** Modulates brightness based on signal height (Center is bright, peaks fade out).
 *   **Flexible Scaling:** Supports both **Fixed** (0-100%) and **Autoscaling** modes.
 *   **Customizable:** Full control over colors, styles, and rendering modes (Braille vs. Block).
+
+
+https://github.com/user-attachments/assets/f39e003e-e3a9-46cc-a2db-5829f1bda3be
+
+
+
 
 ## Installation
 
