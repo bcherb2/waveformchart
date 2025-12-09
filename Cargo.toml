@@ -2,6 +2,11 @@
 name = "waveformchart"
 version = "0.1.0"
 edition = "2024"
+description = "Waveform chart widget for Ratatui with Braille rendering"
+license = "MIT"
+repository = "https://github.com/bcherb2/waveformchart"
+keywords = ["ratatui", "tui", "waveform", "chart", "visualization"]
+categories = ["visualization", "command-line-utilities"]
 
 [dependencies]
 anyhow = "1.0.100"
