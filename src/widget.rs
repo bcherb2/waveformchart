@@ -211,7 +211,7 @@ impl<'a> Widget for WaveformWidget<'a> {
     }
 }
 
-fn apply_fade(mut style: Style, factor: f64) -> Style {
+fn apply_fade(style: Style, factor: f64) -> Style {
     // Removed early return to ensure consistent RGB conversion
     // even when factor is 1.0. This prevents "Named Color" vs "RGB Color" mismatches.
     
